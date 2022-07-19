@@ -8,12 +8,12 @@ I am a fullstack web developer.
 
 For frontend I focus on TypeScript and Vue.
 
-For backend I focus on C#/F#.
+For backend I focus on Go and F#.
 
-I also occasionally do Go, Clojure, Elixir and Rust.
+I also occasionally do Rust and Scala.
 
 I work at [Aibidia](https://aibidia.com), helping automate transfer pricing.
 
-My focus outside the day job is [Opus Classical](https://opusclassical.net), small service to help navigate the complex world of classical music recordings.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Droidion&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+Some recent personal projects:
+- [Opus Classical](https://opusclassical.net), small service to help navigate the complex world of classical music recordings. Written in F#, public [Github repo](https://github.com/Droidion/composers).
+- [TIM Group website](https://timseminar.ru), traditional web site written in Go, private Github repo.

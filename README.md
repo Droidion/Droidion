@@ -8,9 +8,7 @@ I am a fullstack web developer.
 
 For frontend I focus on TypeScript and Vue.
 
-For backend I focus on Go and F#.
-
-I also occasionally do Rust and Scala.
+For backend I focus on Go and Rust.
 
 I work at [Aibidia](https://aibidia.com), helping automate transfer pricing.
 

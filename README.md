@@ -13,5 +13,5 @@ For backend I focus on Go and Rust.
 I work at [Aibidia](https://aibidia.com), helping automate transfer pricing.
 
 Some recent personal projects:
-- [Opus Classical](https://opusclassical.net), small service to help navigate the complex world of classical music recordings. Written in F#, public [Github repo](https://github.com/Droidion/composers).
+- [Opus Classical](https://opusclassical.net), small service to help navigate the complex world of classical music recordings. I wrote this one 4 times in 4 languages: F#, Rust, Elixir and Go, the latter being currently in production.
 - [TIM Group website](https://timseminar.ru), traditional web site written in Go, private Github repo.

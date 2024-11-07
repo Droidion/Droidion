@@ -6,9 +6,9 @@
 
 I am a fullstack web developer.
 
-For frontend I focus on TypeScript and Vue.
+Mainly Vue/Nuxt and Svelte/Kit.
 
-For backend I focus on Go and Rust.
+Going functional for backends.
 
 I work at [Aibidia](https://aibidia.com), helping automate transfer pricing.
 
